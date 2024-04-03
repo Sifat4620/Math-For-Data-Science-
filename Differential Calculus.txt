@@ -1,0 +1,10 @@
+Differential Calculus
+1. Chain Rule of differentiation
+2. Partial Derivatives
+3. Integrations
+4. Beta and gamma function 
+5. Functions of multiple variable, limit ,continuity,partial derivatives
+6. Variants of optimizers
+7. loss functions
+8. Back Propagation
+9. Minima and maxima
