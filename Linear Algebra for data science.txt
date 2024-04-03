@@ -1,0 +1,11 @@
+Linear Algebra
+1. Vectors 
+2. Matrices
+3. Transpose of matrix 
+4. Inverse of a matrix
+5. Determinat of a matrix
+6. Trace of a matrix
+7. Dot product
+8. Eigenvalues
+9. Eigenvectors
+10. Single Value Decomposition 
