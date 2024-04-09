@@ -1,0 +1,12 @@
+Advance
+
+21. Q-Q plot
+22. Chebyshev's inequality
+23. discrete and continuous Distribution
+24. Bernoulli and Binomial Distribution
+25. Log Normal Distribution
+26. Power Law Distribution
+27. Box Cox Transform
+28. Poisson Distribution
+29. App of Non Gaussian Distribution
+30. Z test , T test. Chi square ,anvoa test
